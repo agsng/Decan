@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Decan</string>
+    <string name="WelcomeMessage">SignUp to start your new Journey</string>
+    <string name="welcome">Welcome,</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="phone_no">Phone No</string>
+    <string name="password">Password</string>
+    <string name="go">GO</string>
+    <string name="back_to_login">Already have an account? LogIn</string>
+    <string name="signupImage">sign_up_logo</string>
+    <string name="login_message">Enter your Username and Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="username_message">Name = John Doe, Phone No = 90561-23XXX.\nUsername = john9056</string>
 </resources>
